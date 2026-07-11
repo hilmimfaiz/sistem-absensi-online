@@ -1,0 +1,26 @@
+{
+  "version": "2.6.2",
+  "summary": {
+    "title": "Threat Modeling Sistem Absensi Online Berbasis Website",
+    "owner": "Kelompok 5",
+    "description": "Model ancaman (Threat Modeling) menggunakan metodologi STRIDE untuk Sistem Absensi Online berbasis website. Model ini mengidentifikasi aset, aliran data, komponen sistem, serta potensi ancaman keamanan pada proses autentikasi, pencatatan absensi, pengelolaan data, dan pelaporan dengan bantuan OWASP Threat Dragon.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Hilmi Muhammad Faiz"
+      },
+      {
+        "name": "Rivanzi Hidayatullah"
+      },
+      {
+        "name": "Nuranisa Dina"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
