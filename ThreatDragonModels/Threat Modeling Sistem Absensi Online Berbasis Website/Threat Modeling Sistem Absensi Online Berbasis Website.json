@@ -21,8 +21,19 @@
         "name": "Mahardhika Yoanda"
       }
     ],
-    "diagrams": [],
-    "diagramTop": 0,
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagram STRIDE baruDFD Level 0 - Sistem Absensi Online",
+        "diagramType": "STRIDE",
+        "placeholder": "Deskripsi diagram STRIDE baru",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data Flow Diagram (DFD) Level 0 untuk Sistem Absensi Online berbasis website menggunakan metodologi STRIDE. Diagram ini menggambarkan komponen utama sistem, aliran data, data store, external entity, dan trust boundary sebagai dasar analisis ancaman keamanan."
+      }
+    ],
+    "diagramTop": 1,
     "reviewer": "",
     "threatTop": 0
   }
